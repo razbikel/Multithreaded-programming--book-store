@@ -1,4 +1,4 @@
-# Multithreaded programming - BookStore
+# Multithreaded programming - Book Store
 Building a synchronized Micro-service framework and an "online" bookstore app. Handles inventory, payment and delivery through Multi-threading in java.
 
 
